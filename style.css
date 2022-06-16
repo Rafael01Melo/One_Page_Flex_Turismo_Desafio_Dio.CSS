@@ -223,7 +223,7 @@ footer .footer{
     }
     .apresentacao{
         flex-direction: column-reverse;
-    
+        height: 60vh;
     }
     .apresentacao .texto-apresentacao .btn{
         width: 100%;
